@@ -1,19 +1,19 @@
-[
+{
   "stores":[
     {
       "name" : "MAXIMA",
       "period" : "28.07 - 03.08",
-      "path" : ""
+      "path" : "pdfs/maxima.pdf"
     },
     {
       "name" : "RIMI",
       "period" : "28.07 - 03.08",
-      "path" : ""
+      "path" : "pdfs/rimi.pdf"
     },
     {
       "name" : "LIDL",
       "period" : "28.07 - 03.08",
-      "path" : ""
+      "path" : "pdfs/lidl_compressed.pdf"
     }
   ]
-]
+}
