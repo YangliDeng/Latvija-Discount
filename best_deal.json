@@ -1,6 +1,6 @@
 {
-  bestDealOfWeek : {
-   "store": Rimi,
+  "bestDealOfWeek" : {
+  "store": "Rimi",
   "productName": "Farmer's Eggs, 10 pcs",
   "oldPrice": 3.49,
   "newPrice": 1.99,
